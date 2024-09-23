@@ -2,10 +2,13 @@ In this repo , we present a challenging dataset of over 1000 images for differen
 
 the dataset should have the next structure:
 
-.
-└── Dataset/->├── datastream_1/->├── samples/->├── image1.jpg
-              ├── datastream_1/->├── samples/->├── image1.jpg
-
-    │   └── data_descriptor.csv
-    └── datastream_2/
-        └── data_descriptor.csv
+Dataset/
+    datastream_1/
+        samples/
+            image1.jpg
+            image2.jpg
+            image3.jpg
+            ...
+        data_descriptor.csv
+    datastream_2/
+        data_descriptor.csv
