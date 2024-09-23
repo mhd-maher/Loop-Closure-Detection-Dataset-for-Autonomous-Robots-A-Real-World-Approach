@@ -1,0 +1,1 @@
+This script will calculate the transformation for each scene sequence, then will store the image name, the root image of the scene ,the transformation quaternion. Between the scene images in the next order:root_image -> image1-> image2-> image3-> image4.
